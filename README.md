@@ -11,6 +11,6 @@ Four models were implemented:
 
 The dataset was split into training and testing sets. Each model was trained on the training data and evaluated on the testing data, with results visualized to interpret feature impact and model performance.
 
-Setup & Execution
+Setup & Execution: 
 The project was developed locally in Visual Studio Code using a Jupyter Notebook connected to a Python 3.12.7 kernel via Anaconda Navigator.
 
