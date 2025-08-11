@@ -1,20 +1,16 @@
-# PopProphecies
+#Machine Learning Data Analytics
 
-Machine Learning Data Analytics
+This project predicts a song’s popularity using features such as song length, tempo, genre, number of instruments, lyrical content, and release year.
 
-The purpose of this project is to take the features in the dataset song length, tempo, genre, number of instruments, lyrical content and release year to predict the popularity value of the song. 
+Four models were implemented:
 
-The project uses 4 models 
+- Linear Regression
+- Logistic Regression
+- Decision Tree Regression
+- Random Forest Regression
 
-   - Linear Regression
-   - Logisitic Regression
-   - Decision Regression
-   - Random Forest Regression
+The dataset was split into training and testing sets. Each model was trained on the training data and evaluated on the testing data, with results visualized to interpret feature impact and model performance.
 
-For every model the data is split into training and testing data, the models are trained on the training data then they get tested on the testing data.
+Setup & Execution
+The project was developed locally in Visual Studio Code using a Jupyter Notebook connected to a Python 3.12.7 kernel via Anaconda Navigator.
 
-Setup and exexution
-
-I worked on the project locally in vscode in a jupternotebook, I downloaded the jupernote book extension in vscode and connecting to kernal python 3.12.7 through an application called Anaconda Navigator. 
-
-Split the data for training and testing, trained and tested the models visualized the results or visualized the implications of the features. 
